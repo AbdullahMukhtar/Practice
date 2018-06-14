@@ -1,0 +1,5 @@
+1 - Product Nature  : 1 - Normal
+		      2 - Special
+
+2 - Product Status  : 1 - Active 
+		      2 - Discontinued	
