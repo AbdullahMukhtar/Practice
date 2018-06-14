@@ -2,4 +2,7 @@
 		      2 - Special
 
 2 - Product Status  : 1 - Active 
-		      2 - Discontinued	
+		      2 - Discontinued
+		      
+3- abcdef 	    : 1 -abc
+		      2 -xyz
